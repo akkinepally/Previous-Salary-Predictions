@@ -1,4 +1,2 @@
-# Salary-Bluff-Detector
-Build a polynomial Regression model both in R and Python that would help the HR team to know if a 
-future employee is bluffing about his previous salary for the negotitation of his/her new salary
-based upon their previous experience.
+# Previous Salary Predictions
+Build a polynomial Regression model both in R and Python that would help the HR team to negotiate with the future potential employee that is about to be hired when negotiating an offer, the person says his previous salary to be so and so and that person is demanding for more, based on the information about the salaries of the previous company and knowing the information of the employees experience we can predict hs previous salary.
